@@ -1,0 +1,35 @@
+{
+  "dataCardNotice" :
+  [
+    {
+        "image": "http://www.iain.org.ni/img/noticias/champion-2019.jpg",
+        "title": "Campeón en la Construcción de Concientización - 2019",
+        "description": "Orgullosamente el Instituto de Auditores Internos de Nicaragua obtuvo un reconocimiento del IIA Global como Campeón en la Construcción de Concientización - 2019.",
+        "link": "http://www.iain.org.ni/info/champion-letter-2019.pdf"
+    },
+    {
+        "image": "http://www.iain.org.ni/img/noticias/campeon_2018.jpg",
+        "title": "Campeón en la Construcción de Concientización - 2018",
+        "description": "Orgullosamente el Instituto de Auditores Internos de Nicaragua obtuvo un reconocimiento del IIA Global como Campeón en la Construcción de Concientización - 2018.",
+        "link": "http://www.iain.org.ni/info/champion-letter-2018.pdf"
+    },
+    {
+        "image": "http://www.iain.org.ni/img/noticias/campeon_prev.jpg",
+        "title": "Campeón en la Construcción de Concientización - 2017",
+        "description": "Orgullosamente el Instituto de Auditores Internos de Nicaragua por segundo año consecutivo obtuvo un reconocimiento del IIA Global como Campeón en la Construcción de Concientización - 2017.",
+        "link": "http://www.iain.org.ni/info/champion-letter-2017.pdf",
+    },
+    {
+        "image": "http://www.iain.org.ni/img/noticias/campeon_2016.jpg",
+        "title": "Campeón en la Construcción de Concientización - 2016",
+        "description": "Orgullosamente el Instituto de Auditores Internos de Nicaragua obtuvo un reconocimiento del IIA Global como Campeón en la Construcción de Concientización - 2016.",
+        "link": ""
+    },  
+    {
+        "image": "http://www.iain.org.ni/img/noticias/Programa%20de%20Referidos.jpg",
+        "title": "Programa de Referidos",
+        "description": "El Instituto de Auditores Internos de Nicaragua comparte el Reglamento Programa de Referidos.",
+        "link": "http://www.iain.org.ni/info/Reglamento%20Programa%20de%20Referidos%20-%20IAIN.pdf"
+    }    
+]
+}
