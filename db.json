@@ -61,5 +61,26 @@
         "description": "El Instituto de Auditores Internos de Nicaragua comparte el Reglamento Programa de Referidos.",
         "link": "http://www.iain.org.ni/info/Reglamento%20Programa%20de%20Referidos%20-%20IAIN.pdf"
     }    
-]
+  ],
+
+  "dataCardCertifications": [
+    {
+      "image":"http://www.iain.org.ni/img/certificaciones/auditor-interno.jpg",
+      "title":"Certified Internal Auditor (CIA®)",
+      "description":"Los cambios se harán efectivos el 1 de enero de 2019 para los exámenes en inglés, y el 1 de junio para las traducciones al español. Si usted aprobó o aprueba alguna de las partes del examen CIA antes de junio 1 del 2019, no necesita volver a presentarla. Su aprobación se mantendrá y solo tendrá que presentar las partes restantes.",
+      "typeLink": true
+    },
+    {
+      "image":"http://www.iain.org.ni/img/certificaciones/certificacion-riesgo.jpg",
+      "title":"Certification in Risk Management Assurance ™ (CRMA®)",
+      "description":"Ha sido diseñado para permitir que los profesionales de auditoría y otros interesados en la garantía de la gestión de riesgos para demostrar su capacidad de proporcionar asesoramiento y aseguramiento a los comités de auditoría sobre los procesos clave de gestión de riesgos y gobernanza en sus organizaciones.",
+      "typeLink": true
+    },
+    {
+      "image":"http://www.iain.org.ni/img/certificaciones/certificacion-liderazgo.jpg",
+      "title":"Qualification in Internal Audit Leadership® (QIAL®)",
+      "description":"El crecimiento y el cambio en el campo de la auditoría interna exigen un nuevo tipo de líder. El programa Qualification in Internal Audit Leadership® (QIAL®) enseña habilidades altamente transferibles con énfasis en cómo estas habilidades se unen en torno a las cualidades de los ejecutivos de auditoría y los instructores con experiencia.",
+      "typeLink": true
+    }
+  ]
 }
